@@ -10,6 +10,9 @@ yarn-error.log*
 
 # dotenv environment variables
 **/.env
+.env
+client/.env
+server/.env
 
 # Vite build output
 client/dist
